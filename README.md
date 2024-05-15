@@ -8,3 +8,12 @@
 </ol>
 
 <p>The transcript used for this analysis is sourced from <a href="https://www.opensubtitles.org/pl/pl">OpenSubtitles</a>.</p>
+
+
+
+<p>Example connections between characters, the thicker the line, the greater the relationship between these characters.</p>
+
+
+### Image 
+
+<img src="obraz.PNG" alt="JavaPaint Screenshot">
